@@ -10,7 +10,6 @@ out=add(20,20)
 print("add::",out)
 print("add =>2", add(20,20))
     
-
 def subtr(a,b):
     subtr = (a-b)
     return subtr
@@ -32,4 +31,3 @@ out=divide(20,20)
 print("divide::",out)
 print("divide=>2", add(20,20))
 
-    
