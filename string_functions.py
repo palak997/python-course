@@ -5,7 +5,7 @@ def word_count(text):
         if word in wc:
             wc[word]+=1
          else:
-                wc[word] = 1
+            wc[word] = 1
     return wc
 
 
